@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\1vsproject\player\ffmsdl\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\1vsproject\player\ffmsdl\ffmsdl\frame.h(7): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+  FFMSDL.vcxproj -> D:\1VSProject\Player\FFMSDL\x64\Debug\FFMSDL.exe
